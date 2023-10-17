@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"Inicio qulque coisa ksksk","title":"Home"},{"location":"papel/","text":"Papel","title":"Papel"},{"location":"pedra/","text":"Pedra","title":"Pedra"},{"location":"tesoura/","text":"Tesoura","title":"Tesoura"}]}
+{"config":{"lang":["pt"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home","text":"<p>Inicio</p> <p>qulque coisa ksksk</p>"},{"location":"tesoura/","title":"Tesoura","text":"<p>Tesoura</p>"}]}
