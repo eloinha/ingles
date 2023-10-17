@@ -1,1 +1,7 @@
+site_name: site englih
 site_name: helo
+
+theme:
+   name: material
+   language: pt
+
